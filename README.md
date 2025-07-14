@@ -6,8 +6,6 @@
 
 Sou apaixonado por tecnologia e desenvolvimento de sistemas que resolvem problemas reais. Atuo principalmente no back-end com Java, trabalhando com bancos de dados relacionais e APIs RESTful. Também possuo experiência com automações, versionamento de código e criação de interfaces web modernas.
 
----
-
 ## 🛠️ Tecnologias e Frameworks
 
 **Tecnologias:**
@@ -35,8 +33,8 @@ Sou apaixonado por tecnologia e desenvolvimento de sistemas que resolvem problem
 </div>
 
 ---
+📧 sp.alanmarques@gmail.com 
 
 [![Linkedin: Alan Machado](https://img.shields.io/badge/-Alan_Machado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alanmmachado/)](https://www.linkedin.com/in/alanmmachado/)  
-📧 sp.alanmarques@gmail.com 
 
 ![](https://komarev.com/ghpvc/?username=AlanMMachado&color=green)
