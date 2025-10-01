@@ -1,10 +1,10 @@
 # 👋 Olá! Eu sou o Alan Machado
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na [FATEC Guarulhos](https://www.fatecguarulhos.edu.br)  
-💻 Desenvolvedor Back-End com foco em soluções robustas, seguras e escaláveis  
+💻 Desenvolvedor Full-Stack com experiência em aplicações web, mobile e automações internas  
 🌎 Guarulhos, São Paulo - Brasil  
 
-Sou apaixonado por tecnologia e desenvolvimento de sistemas que resolvem problemas reais. Atuo principalmente no back-end com Java, trabalhando com bancos de dados relacionais e APIs RESTful. Também possuo experiência com automações, versionamento de código e criação de interfaces web modernas.
+No back-end, atuo principalmente com Java e Spring Boot, implementando APIs RESTful, segurança com Spring Security e persistência com JPA em bancos relacionais. No front-end, desenvolvo interfaces modernas em React, Next.js e TypeScript, além de atuar em projetos mobile com React Native + Expo, garantindo usabilidade e integração com serviços corporativos.
 
 ## 🛠️ Tecnologias e Frameworks
 
@@ -18,8 +18,6 @@ Sou apaixonado por tecnologia e desenvolvimento de sistemas que resolvem problem
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 </div>
 
 <br/>
@@ -30,6 +28,10 @@ Sou apaixonado por tecnologia e desenvolvimento de sistemas que resolvem problem
   <img align="center" alt="Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Next.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Expo" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg">
+  <img align="center" alt="Android Studio" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg">
+  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 </div>
 
 ---
