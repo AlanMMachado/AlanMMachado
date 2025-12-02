@@ -35,7 +35,7 @@ No back-end, atuo principalmente com Java e Spring Boot, implementando APIs REST
 </div>
 
 ---
-📧 sp.alanmarques@gmail.com 
+sp.alanmarques@gmail.com 
 
 [![Linkedin: Alan Machado](https://img.shields.io/badge/-Alan_Machado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alanmmachado/)](https://www.linkedin.com/in/alanmmachado/)  
 
