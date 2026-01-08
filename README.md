@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Alan Machado
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na [FATEC Guarulhos](https://www.fatecguarulhos.edu.br)  
-💻 Desenvolvedor Full-Stack com experiência em aplicações web, mobile e automações internas  
+🎓 Graduado em Análise e Desenvolvimento de Sistemas na [FATEC Guarulhos](https://www.fatecguarulhos.edu.br)  
+💻 Desenvolvedor Full-Stack com experiência em aplicações web, mobile e automações internas
 🌎 Guarulhos, São Paulo - Brasil  
 
 No back-end, atuo principalmente com Java e Spring Boot, implementando APIs RESTful, segurança com Spring Security e persistência com JPA em bancos relacionais. No front-end, desenvolvo interfaces modernas em React, Next.js e TypeScript, além de atuar em projetos mobile com React Native + Expo, garantindo usabilidade e integração com serviços corporativos.
